@@ -23,3 +23,5 @@ if(word_1.length > word_2.length) {
 
 console.log(message);
 
+// Nota post correzione:
+// potevo usare i backtick e i $ per generare il message
